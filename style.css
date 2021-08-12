@@ -5,3 +5,7 @@ body {
 p { 
     color:blue;
 }
+
+form{
+    margin: 50px;
+}
